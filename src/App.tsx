@@ -118,100 +118,113 @@ const App = () => {
       </nav>
 
       <div className="content-wrapper">
-        <header className="card" id="link1">
-          <div style={{ padding: "0 24px 0 24px 0" }}>
-            <h3 className="pb-3">Our Latest Collection: Vikingum!</h1>
-            <p className="text-secondary-color">
-              This is a limited edition collection of 175 different viking themed A.I. creations.
-              There is no auction, simply add your wallet, and click "Mint".
-              Mints are given on a first come, first served basis, and are randomly handed out.
-              Once all 175 NFTs are sold, that's it for that run. Stay tuned for more if you missed it.
-            </p>
-            <p className="text-secondary-color">
-              <img src="/img/vikingum/1.png" height="75" />
-              <img src="/img/vikingum/39.png" height="75" />
-              <img src="/img/vikingum/22.png" height="75" />
-              <img src="/img/vikingum/51.png" height="75" />
-              <img src="/img/vikingum/78.png" height="75" />
-            </p>
-          </div>
-          <div>
-            <ThemeProvider theme={theme}>
-              <ConnectionProvider endpoint={endpoint}>
-                <WalletProvider wallets={wallets} autoConnect>
-                  <WalletDialogProvider>
-                    
-                      <Minter
-                        candyMachineId={candyMachineId}
-                        
-                        connection={connection}
-                        startDate={startDateSeed}
-                        txTimeout={txTimeout}
-                        rpcHost={rpcHost}
-                      />
-                    
-                  </WalletDialogProvider>
-                </WalletProvider>
-              </ConnectionProvider>
-            </ThemeProvider>
-          </div>
-        </header>
-
         <div id="link2" className="container">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac velit
-          aliquet, semper sapien sed, ornare augue. Phasellus sed velit interdum,
-          sagittis metus quis, facilisis lectus. Cras sollicitudin purus at magna
-          eleifend maximus. Nulla nec nulla in nunc maximus viverra in at mauris.
-          Fusce sodales dolor nisi, et vehicula orci porta id. In placerat nunc
-          sed erat lacinia tincidunt. Interdum et malesuada fames ac ante ipsum
-          primis in faucibus. Vestibulum commodo eget metus vitae tempus. Aliquam
-          pharetra mi at efficitur accumsan. Curabitur venenatis libero a ex
-          porttitor, at auctor turpis hendrerit. Nam commodo, risus non consequat
-          pretium, erat ante auctor purus, a cursus dolor erat at velit. Maecenas
-          dignissim, dolor sed laoreet aliquam, tortor lacus faucibus urna, eget
-          mattis massa sem ac dui. Nam semper hendrerit interdum. Etiam at dictum
-          nisi.
+          <h1 className="text-secondary-color">Welcome To</h3>
+          <h3 className="pb-3">The Alphabet cARTel's Candy Machine!</h1>
+          <p className="text-secondary-color">
+            Here you will find our current offerings of our NFT collections.
+            Our collections are a combination of human and AI artistry.
+            We will be very clear on which collections are human created,
+            and which are created via A.I. to avoid any misconceptions.
+          </p>
         </div>
+      </div>
 
-        <div id="link3" className="container card">
-          <h1 className="pb-3">Lorem ipsum</h1>
-        </div>
+      <div className="content-wrapper">
+          <header className="card" id="link1">
+            <div style={{ padding: "0 24px 0 24px 0" }}>
+              <h3 className="pb-3">Our Latest Collection: Vikingum!</h1>
+              <p className="text-secondary-color">
+                This is a limited edition collection of 175 different viking themed A.I. creations.
+                There is no auction, simply add your wallet, and click "Mint".
+                Mints are given on a first come, first served basis, and are randomly handed out.
+                Once all 175 NFTs are sold, that's it for that run. Stay tuned for more if you missed it.
+              </p>
+              <p className="text-secondary-color">
+                <img src="/img/vikingum/1.png" height="75" />
+                <img src="/img/vikingum/39.png" height="75" />
+                <img src="/img/vikingum/22.png" height="75" />
+                <img src="/img/vikingum/51.png" height="75" />
+                <img src="/img/vikingum/78.png" height="75" />
+              </p>
+            </div>
+            <div>
+              <ThemeProvider theme={theme}>
+                <ConnectionProvider endpoint={endpoint}>
+                  <WalletProvider wallets={wallets} autoConnect>
+                    <WalletDialogProvider>
+                      
+                        <Minter
+                          candyMachineId={candyMachineId}
+                          
+                          connection={connection}
+                          startDate={startDateSeed}
+                          txTimeout={txTimeout}
+                          rpcHost={rpcHost}
+                        />
+                      
+                    </WalletDialogProvider>
+                  </WalletProvider>
+                </ConnectionProvider>
+              </ThemeProvider>
+            </div>
+          </header>
 
-        <div id="link4" className="container faq">
-          <h1 style={{ padding: "0 0 24px 0" }}>FAQ</h1>
-          <div>
-            <h4>Lorem ipsum?</h4>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-              id metus id mauris tincidunt posuere. Vivamus neque odio, imperdiet
-              vitae.
-            </p>
-
-            <hr />
+          <div id="link2" className="container">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac velit
+            aliquet, semper sapien sed, ornare augue. Phasellus sed velit interdum,
+            sagittis metus quis, facilisis lectus. Cras sollicitudin purus at magna
+            eleifend maximus. Nulla nec nulla in nunc maximus viverra in at mauris.
+            Fusce sodales dolor nisi, et vehicula orci porta id. In placerat nunc
+            sed erat lacinia tincidunt. Interdum et malesuada fames ac ante ipsum
+            primis in faucibus. Vestibulum commodo eget metus vitae tempus. Aliquam
+            pharetra mi at efficitur accumsan. Curabitur venenatis libero a ex
+            porttitor, at auctor turpis hendrerit. Nam commodo, risus non consequat
+            pretium, erat ante auctor purus, a cursus dolor erat at velit. Maecenas
+            dignissim, dolor sed laoreet aliquam, tortor lacus faucibus urna, eget
+            mattis massa sem ac dui. Nam semper hendrerit interdum. Etiam at dictum
+            nisi.
           </div>
 
-          <div>
-            <h4>Lorem ipsum?</h4>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-              id metus id mauris tincidunt posuere. Vivamus neque odio, imperdiet
-              vitae.
-            </p>
-
-            <hr />
+          <div id="link3" className="container card">
+            <h1 className="pb-3">Lorem ipsum</h1>
           </div>
 
-          <div>
-            <h4>Lorem ipsum?</h4>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-              id metus id mauris tincidunt posuere. Vivamus neque odio, imperdiet
-              vitae.
-            </p>
+          <div id="link4" className="container faq">
+            <h1 style={{ padding: "0 0 24px 0" }}>FAQ</h1>
+            <div>
+              <h4>Lorem ipsum?</h4>
+              <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
+                id metus id mauris tincidunt posuere. Vivamus neque odio, imperdiet
+                vitae.
+              </p>
 
-            <hr />
+              <hr />
+            </div>
+
+            <div>
+              <h4>Lorem ipsum?</h4>
+              <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
+                id metus id mauris tincidunt posuere. Vivamus neque odio, imperdiet
+                vitae.
+              </p>
+
+              <hr />
+            </div>
+
+            <div>
+              <h4>Lorem ipsum?</h4>
+              <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
+                id metus id mauris tincidunt posuere. Vivamus neque odio, imperdiet
+                vitae.
+              </p>
+
+              <hr />
+            </div>
           </div>
-        </div>
       </div>
     </div>
   );
