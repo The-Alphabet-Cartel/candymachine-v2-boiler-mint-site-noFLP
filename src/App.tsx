@@ -129,6 +129,24 @@ const App = () => {
                 eros ac, eleifend dictum sem. Nam vitae condimentum lorem.
                 Vestibulum molestie dui turpis, tincidunt porta sem congue nec.
               </p>
+              <div class = "gallery">
+                <div class="clipped-border">
+                  <img src="/img/vikingum/1.png" id="clipped">
+                </div>
+                <div class="clipped-border">
+                  <img src="/img/vikingum/39.png" id="clipped">
+                </div>
+                <div class="clipped-border">
+                  <img src="/img/vikingum/22.png" id="clipped">
+                </div>
+                  <div class="clipped-border">
+                  <img src="/img/vikingum/51.png" id="clipped">
+                </div>
+                  <div class="clipped-border">
+                  <img src="/img/vikingum/78.png" id="clipped">
+                </div>
+                <div class = "shadow"></div>
+              </div>
             </div>
             <div>
               <ThemeProvider theme={theme}>
