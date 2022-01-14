@@ -172,14 +172,17 @@ nav a:hover {
 }
 
 .pb-2 {
+  color: var(--text-primary-color);
   padding-bottom: 20px;
 }
 
 .pb-3 {
+  color: var(--text-primary-color);
   padding-bottom: 30px;
 }
 
 .pb-4 {
+  color: var(--text-primary-color);
   padding-bottom: 40px;
 }
 
