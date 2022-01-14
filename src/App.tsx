@@ -124,10 +124,10 @@ const App = () => {
               <hr />
               <br />
               <p className="text-secondary-color">
-                <img src="/img/vikingum/39.png" height="100" alt="" />
-                <img src="/img/vikingum/22.png" height="100" alt="" />
-                <img src="/img/vikingum/51.png" height="100" alt="" />
-                <img src="/img/vikingum/78.png" height="100" alt="" />
+                <img src="/img/runs/vikingum/39.png" height="100" alt="" />
+                <img src="/img/runs/vikingum/22.png" height="100" alt="" />
+                <img src="/img/runs/vikingum/51.png" height="100" alt="" />
+                <img src="/img/runs/vikingum/78.png" height="100" alt="" />
               </p>
             </div>
             <div>
@@ -162,10 +162,10 @@ const App = () => {
             <hr />
             <br />
             <p className="text-secondary-color">
-              <img src="/img/angels/0.png" height="100" alt="" />
-              <img src="/img/angels/1.png" height="100" alt="" />
-              <img src="/img/angels/3.png" height="100" alt="" />
-              <img src="/img/angels/4.png" height="100" alt="" />
+              <img src="/img/runs/angels/0.png" height="100" alt="" />
+              <img src="/img/runs/angels/1.png" height="100" alt="" />
+              <img src="/img/runs/angels/3.png" height="100" alt="" />
+              <img src="/img/runs/angels/4.png" height="100" alt="" />
             </p>
           </div>
 
@@ -183,22 +183,26 @@ const App = () => {
           <div id="link4" className="container faq">
             <h1 style={{ padding: "0 0 24px 0" }}>FAQ</h1>
             <div>
-              <h4>Lorem ipsum?</h4>
+              <h4>What is an NFT?</h4>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-                id metus id mauris tincidunt posuere. Vivamus neque odio, imperdiet
-                vitae.
+                <blockquote>
+                  A non-fungible (meaning unique, non-replaceable) token (NFT) is a unique digital code that represents some kind of digital item.
+                  It could be digital art or music, for example. An NFT is secured and stored on a public blockchain.
+                  One token is not interchangeable for another, and a token cannot be further divided.
+                </blockquote>
+                In short, an NFT is a digital Proof of Ownership.
               </p>
 
               <hr />
             </div>
 
             <div>
-              <h4>Lorem ipsum?</h4>
+              <h4>So I own the print(s) that I mint?</h4>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-                id metus id mauris tincidunt posuere. Vivamus neque odio, imperdiet
-                vitae.
+                Yes!<br />
+                You can do whatever you want with your minted print, because, you have become the sole owner of that particular print.
+                Have it printed on canvas, frame it, haang it up for all to see, it is yours
+                (unless you decide to sell it, then it transfers to the new owner).
               </p>
 
               <hr />
