@@ -122,6 +122,7 @@ const App = () => {
                 Once all NFTs are sold, that's it for that run.
               </p>
               <hr />
+              <br />
               <p className="text-secondary-color">
                 <img src="/img/vikingum/39.png" height="100" alt="" />
                 <img src="/img/vikingum/22.png" height="100" alt="" />
@@ -159,6 +160,7 @@ const App = () => {
               Mints will be given on a first come, first served basis, and are randomly handed out.
             </p>
             <hr />
+            <br />
             <p className="text-secondary-color">
               <img src="/img/angels/0.png" height="100" alt="" />
               <img src="/img/angels/1.png" height="100" alt="" />
