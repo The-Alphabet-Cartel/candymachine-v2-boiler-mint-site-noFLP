@@ -21,7 +21,6 @@ import {
 import { WalletDialogProvider } from "@solana/wallet-adapter-material-ui";
 import { ThemeProvider, createTheme } from "@material-ui/core";
 
-
 const theme = createTheme({
   palette: {
     type: "dark",
@@ -117,7 +116,6 @@ const App = () => {
           </div>
         </div>
       </nav>
-
       <div className="content-wrapper">
         <div id="link2" className="container">
           <h1 className="text-secondary-color">Welcome To</h3>
@@ -130,8 +128,8 @@ const App = () => {
           </p>
         </div>
       </div>
-
       <div className="content-wrapper">
+        <div id="link2" className="container">
           <header className="card" id="link1">
             <div style={{ padding: "0 24px 0 24px 0" }}>
               <h3 className="pb-3">Our Latest Collection: Vikingum!</h1>
@@ -226,6 +224,7 @@ const App = () => {
               <hr />
             </div>
           </div>
+        </div>
       </div>
     </div>
   );
