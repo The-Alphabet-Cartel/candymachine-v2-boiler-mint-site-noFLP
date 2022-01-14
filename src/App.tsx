@@ -153,6 +153,25 @@ const App = () => {
           </header>
 
           <div id="link2" className="container">
+            <div class = "gallery">
+              <div class="clipped-border">
+                <img src="/img/vikingum/1.png" id="clipped">
+              </div>
+              <div class="clipped-border">
+                <img src="/img/vikingum/39.png" id="clipped">
+              </div>
+              <div class="clipped-border">
+                <img src="/img/vikingum/22.png" id="clipped">
+              </div>
+                <div class="clipped-border">
+                <img src="/img/vikingum/51.png" id="clipped">
+              </div>
+                <div class="clipped-border">
+                <img src="/img/vikingum/78.png" id="clipped">
+              </div>
+              <div class = "shadow"></div>
+            </div>
+
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac velit
             aliquet, semper sapien sed, ornare augue. Phasellus sed velit interdum,
             sagittis metus quis, facilisis lectus. Cras sollicitudin purus at magna
