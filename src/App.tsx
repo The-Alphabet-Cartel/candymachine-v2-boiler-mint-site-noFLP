@@ -118,15 +118,17 @@ const App = () => {
         </div>
       </nav>
 
-      <div id="link2" className="container">
-        <h1 className="text-secondary-color">Welcome To</h3>
-        <h3 className="pb-3">The Alphabet cARTel's Candy Machine!</h1>
-        <p className="text-secondary-color">
-          Here you will find our current offerings of our NFT collections.
-          Our collections are a combination of human and AI artistry.
-          We will be very clear on which collections are human created,
-          and which are created via A.I. to avoid any misconceptions.
-        </p>
+      <div className="content-wrapper">
+        <div id="link2" className="container">
+          <h1 className="text-secondary-color">Welcome To</h3>
+          <h3 className="pb-3">The Alphabet cARTel's Candy Machine!</h1>
+          <p className="text-secondary-color">
+            Here you will find our current offerings of our NFT collections.
+            Our collections are a combination of human and AI artistry.
+            We will be very clear on which collections are human created,
+            and which are created via A.I. to avoid any misconceptions.
+          </p>
+        </div>
       </div>
 
       <div className="content-wrapper">
