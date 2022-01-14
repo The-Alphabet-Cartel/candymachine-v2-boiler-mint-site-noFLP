@@ -100,7 +100,7 @@ const App = () => {
       <div className="content-wrapper">
         <div id="link2" className="container">
           <h1 className="text-secondary-color">Welcome To The</h1>
-          <h3 className="pb-3"><img src="/img/logo.png" alt="Alphabet cARTel Logo" />'s Candy Machine!</h3>
+          <h3 className="pb-3"><img src="/img/logo2.png" alt="Alphabet cARTel Logo" />'s Candy Machine!</h3>
           <p className="text-secondary-color">
             Here you will find our current offerings of our NFT collections.
             Our collections are a combination of human and AI artistry.
