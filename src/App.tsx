@@ -119,7 +119,7 @@ const App = () => {
 
       <div className="content-wrapper">
         <div id="link2" className="container">
-          <h1 className="text-secondary-color">Welcome To</h1>
+          <h1 className="text-secondary-color">Welcome To The</h1>
           <h3 className="pb-3"><img src="/img/logo.png" />'s Candy Machine!</h3>
           <p className="text-secondary-color">
             Here you will find our current offerings of our NFT collections.
@@ -170,6 +170,22 @@ const App = () => {
             </div>
           </header>
 
+          <div id="link3" className="container card">
+            <h3 className="pb-3">Our Upcoming Collection: Angels!</h3>
+            <p className="text-primary-color">
+              This will be a limited edition collection of 200 different angel themed A.I. creations.
+              As usual, there will be no auction, simply add your wallet, and click "Mint".
+              Mints will be given on a first come, first served basis, and are randomly handed out.
+            </p>
+            <p className="text-secondary-color">
+              <img src="/img/angels/0.png" height="75" />
+              <img src="/img/angels/1.png" height="75" />
+              <img src="/img/angels/2.png" height="75" />
+              <img src="/img/angels/3.png" height="75" />
+              <img src="/img/angels/4.png" height="75" />
+            </p>
+          </div>
+
           <div id="link2" className="container">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac velit
             aliquet, semper sapien sed, ornare augue. Phasellus sed velit interdum,
@@ -184,10 +200,6 @@ const App = () => {
             dignissim, dolor sed laoreet aliquam, tortor lacus faucibus urna, eget
             mattis massa sem ac dui. Nam semper hendrerit interdum. Etiam at dictum
             nisi.
-          </div>
-
-          <div id="link3" className="container card">
-            <h1 className="pb-3">Lorem ipsum</h1>
           </div>
 
           <div id="link4" className="container faq">
