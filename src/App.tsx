@@ -62,11 +62,8 @@ const App = () => {
         </div>
         <ul>
           <li>
-            <img className="mobile-nav-logo" src="/img/logo.png" alt="" />
-          </li>
-          <li>
-            <a href="https://candy.alphabetcartel.com" onClick={toggleMenu}>
-              The Alphabet cARTel - Candy Machine
+            <a href="https://candy.alphabetcartel.com">
+              <img className="mobile-nav-logo" src="/img/logo.png" alt="" />
             </a>
           </li>
           <li>
@@ -87,9 +84,8 @@ const App = () => {
       </div>
       <nav>
         <div className="nav-container">
-          <img className="nav-logo" src="/img/logo.png" alt="" />
-          <a href="https://candy.alphabetcartel.com" onClick={toggleMenu}>
-            The Alphabet cARTel - Candy Machine
+          <a href="https://candy.alphabetcartel.com">
+            <img className="nav-logo" src="/img/logo.png" alt="" />
           </a>
           <a href="https://gallery.alphabetcartel.com" onClick={toggleMenu}>
             The Alphabet cARTel - NFT Gallery
