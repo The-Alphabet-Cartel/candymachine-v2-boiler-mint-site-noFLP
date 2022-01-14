@@ -65,23 +65,13 @@ const App = () => {
             <img className="mobile-nav-logo" src="/img/logo.png" alt="" />
           </li>
           <li>
-            <a href="/#link1" onClick={toggleMenu}>
-              Link 1
+            <a href="https://candy.alphabetcartel.com" onClick={toggleMenu}>
+              The Alphabet cARTel - Candy Machine
             </a>
           </li>
           <li>
-            <a href="/#link2" onClick={toggleMenu}>
-              Link 2
-            </a>
-          </li>
-          <li>
-            <a href="/#link3" onClick={toggleMenu}>
-              Link 3
-            </a>
-          </li>
-          <li>
-            <a href="/#link4" onClick={toggleMenu}>
-              Link 4
+            <a href="https://gallery.alphabetcartel.com" onClick={toggleMenu}>
+              The Alphabet cARTel - NFT Gallery
             </a>
           </li>
           <li>
@@ -98,17 +88,11 @@ const App = () => {
       <nav>
         <div className="nav-container">
           <img className="nav-logo" src="/img/logo.png" alt="" />
-          <a className="hide-800" href="/#link1">
-            Link 1
+          <a href="https://candy.alphabetcartel.com" onClick={toggleMenu}>
+            The Alphabet cARTel - Candy Machine
           </a>
-          <a className="hide-800" href="/#link2">
-            Link 2
-          </a>
-          <a className="hide-800" href="/#link3">
-            Link 3
-          </a>
-          <a className="hide-800" href="/#link4">
-            Link 4
+          <a href="https://gallery.alphabetcartel.com" onClick={toggleMenu}>
+            The Alphabet cARTel - NFT Gallery
           </a>
           <div className="social-icons hide-800">
             <img className="nav-social" src="/icons/twitter.svg" alt="" />
