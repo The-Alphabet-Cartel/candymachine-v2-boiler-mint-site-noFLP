@@ -246,7 +246,7 @@ header {
 }
 
 .faq p {
-  color: var(--text-secondary-color);
+  color: var(--text-primary-color);
   padding: 20px;
 }
 
