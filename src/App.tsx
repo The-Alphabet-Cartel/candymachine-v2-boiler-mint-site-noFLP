@@ -119,8 +119,8 @@ const App = () => {
 
       <div className="content-wrapper">
         <div id="link2" className="container">
-          <h1 className="text-secondary-color">Welcome To</h3>
-          <h3 className="pb-3">The Alphabet cARTel's Candy Machine!</h1>
+          <h1 className="text-secondary-color">Welcome To</h1>
+          <h3 className="pb-3">The Alphabet cARTel's Candy Machine!</h3>
           <p className="text-secondary-color">
             Here you will find our current offerings of our NFT collections.
             Our collections are a combination of human and AI artistry.
@@ -133,7 +133,7 @@ const App = () => {
       <div className="content-wrapper">
           <header className="card" id="link1">
             <div style={{ padding: "0 24px 0 24px 0" }}>
-              <h3 className="pb-3">Our Latest Collection: Vikingum!</h1>
+              <h3 className="pb-3">Our Latest Collection: Vikingum!</h3>
               <p className="text-secondary-color">
                 This is a limited edition collection of 175 different viking themed A.I. creations.
                 There is no auction, simply add your wallet, and click "Mint".
