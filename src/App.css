@@ -184,6 +184,7 @@ nav a:hover {
 }
 
 header {
+  color: var(--text-primary-color);
   max-width: 900px;
   margin: auto;
   align-items: center;
@@ -233,6 +234,7 @@ header {
 }
 
 .faq {
+  color: var(--text-primary-color);
   max-width: 900px;
   margin: auto;
   align-items: center;
@@ -240,10 +242,12 @@ header {
 }
 
 .faq div {
+  color: var(--text-primary-color);
   margin-bottom: 20px;
 }
 
 .faq p {
+  color: var(--text-primary-color);
   padding: 20px;
 }
 
@@ -265,6 +269,7 @@ header {
 }
 
 .container {
+  color: var(--text-primary-color);
   position: relative;
   margin-top: 40px;
   margin-bottom: 40px;
