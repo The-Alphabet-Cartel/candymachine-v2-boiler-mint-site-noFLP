@@ -1,19 +1,39 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Alphabet cARTel",
+  "name": "The Alphabet cARTel Candy Machine",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "/img/favicon/favicon.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "/img/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png",
+    },
+    {
+      "src": "/img/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png",
+    },
+    {
+      "src": "/img/favicon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+    },
+    {
+      "src": "/img/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+    },
+    {
+      "src": "/img/android-chrome-192x192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "/img/android-chrome-512x512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
