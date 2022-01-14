@@ -237,7 +237,7 @@ header {
 }
 
 .faq {
-  color: var(--text-primary-color);
+  color: var(--text-secondary-color);
   max-width: 900px;
   margin: auto;
   align-items: center;
@@ -245,7 +245,7 @@ header {
 }
 
 .faq div {
-  color: var(--text-primary-color);
+  color: var(--text-secondary-color);
   margin-bottom: 20px;
 }
 
