@@ -113,7 +113,7 @@ const App = () => {
       <div className="content-wrapper">
           <header className="card" id="link1">
             <div style={{ padding: "0 24px 0 24px 0" }}>
-              <h3 className="pb-3">Our Latest Collection: Vikingum!</h3>
+              <h3 className="pb-3">Our Latest Collection: Vikingum (Run #1)!</h3>
               <p className="text-primary-color">
                 This is a multi-run, limited edition collection of 175 different viking themed A.I. creations.
                 Each run will have no more than 25 NFTs available for purchase (Minting).
@@ -201,7 +201,7 @@ const App = () => {
               <p>
                 Yes!<br />
                 You can do whatever you want with your minted print, because, you have become the sole owner of that particular print.
-                Have it printed on canvas, frame it, haang it up for all to see, it is yours
+                Have it printed on canvas, frame it, hang it up for all to see, it is yours
                 (unless you decide to sell it, then it transfers to the new owner).
               </p>
 
@@ -209,11 +209,11 @@ const App = () => {
             </div>
 
             <div>
-              <h4>Lorem ipsum?</h4>
+              <h4>No refunds?</h4>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-                id metus id mauris tincidunt posuere. Vivamus neque odio, imperdiet
-                vitae.
+                Correct. What you get it what you get.
+                We promise that you are getting a unique item and retain full ownership over said NFT unless you decide to sell it.
+                If you're adamanat about not wanting it, you can, of course, resell it to someone else, and mint another if you wish, but yes, no refunds.
               </p>
 
               <hr />
