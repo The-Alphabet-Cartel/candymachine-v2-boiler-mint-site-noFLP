@@ -170,19 +170,14 @@ const App = () => {
           </div>
 
           <div id="link2" className="container">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac velit
-            aliquet, semper sapien sed, ornare augue. Phasellus sed velit interdum,
-            sagittis metus quis, facilisis lectus. Cras sollicitudin purus at magna
-            eleifend maximus. Nulla nec nulla in nunc maximus viverra in at mauris.
-            Fusce sodales dolor nisi, et vehicula orci porta id. In placerat nunc
-            sed erat lacinia tincidunt. Interdum et malesuada fames ac ante ipsum
-            primis in faucibus. Vestibulum commodo eget metus vitae tempus. Aliquam
-            pharetra mi at efficitur accumsan. Curabitur venenatis libero a ex
-            porttitor, at auctor turpis hendrerit. Nam commodo, risus non consequat
-            pretium, erat ante auctor purus, a cursus dolor erat at velit. Maecenas
-            dignissim, dolor sed laoreet aliquam, tortor lacus faucibus urna, eget
-            mattis massa sem ac dui. Nam semper hendrerit interdum. Etiam at dictum
-            nisi.
+            All proceeds from our sales go towards (in order of importance):
+            <ol>
+              <li>Building a better community for our LGBTQIA+ creators and artists</li>
+              <li>Providing technology to said artists and creators who may not be able to afford them</li>
+              <li>Providing teaching and learning opportunities for our creators, artists, and supporters</li>
+              <li>A small portion of our proceeds are designated to helping our furry companions by way of supporting K9 Trust, a 501(c)(3) dog rescue</li>
+              <li>Other opportunities as deemed fitting by The Alphabet cARTel Staff Members</li>
+            </ol>
           </div>
 
           <div id="link4" className="container faq">
