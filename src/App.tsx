@@ -211,9 +211,23 @@ const App = () => {
             <div>
               <h4>No refunds?</h4>
               <p>
-                Correct. What you get it what you get.
+                Correct. What you get is what you get.
                 We promise that you are getting a unique item and retain full ownership over said NFT unless you decide to sell it.
                 If you're adamanat about not wanting it, you can, of course, resell it to someone else, and mint another if you wish, but yes, no refunds.
+              </p>
+
+              <hr />
+            </div>
+
+            <div>
+              <h4>I don't really want an NFT, but I would still like to support the cause.</h4>
+              <p>
+                Thank you!<br /><br />
+                From the bottom of our collective hearts, Thank you!<br /><br />
+                To support us directly you can send any amount of SOL to the address:<br />
+                <blockquote>xCwosCjTN2x9SYNrkhDq2MFvauZdZ6xTb2wv9zfNSA9</blockquote>
+                or
+                <blockquote>@AlphabetCartel</blockquote>
               </p>
 
               <hr />
