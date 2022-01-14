@@ -141,11 +141,11 @@ const App = () => {
                 Once all 175 NFTs are sold, that's it for that run. Stay tuned for more if you missed it.
               </p>
               <p className="text-secondary-color">
-                <img src="/img/vikingum/1.png" height="75" />
-                <img src="/img/vikingum/39.png" height="75" />
-                <img src="/img/vikingum/22.png" height="75" />
-                <img src="/img/vikingum/51.png" height="75" />
-                <img src="/img/vikingum/78.png" height="75" />
+                <img src="/img/vikingum/1.png" height="100" />
+                <img src="/img/vikingum/39.png" height="100" />
+                <img src="/img/vikingum/22.png" height="100" />
+                <img src="/img/vikingum/51.png" height="100" />
+                <img src="/img/vikingum/78.png" height="100" />
               </p>
             </div>
             <div>
@@ -178,11 +178,11 @@ const App = () => {
               Mints will be given on a first come, first served basis, and are randomly handed out.
             </p>
             <p className="text-secondary-color">
-              <img src="/img/angels/0.png" height="75" />
-              <img src="/img/angels/1.png" height="75" />
-              <img src="/img/angels/2.png" height="75" />
-              <img src="/img/angels/3.png" height="75" />
-              <img src="/img/angels/4.png" height="75" />
+              <img src="/img/angels/0.png" height="100" />
+              <img src="/img/angels/1.png" height="100" />
+              <img src="/img/angels/2.png" height="100" />
+              <img src="/img/angels/3.png" height="100" />
+              <img src="/img/angels/4.png" height="100" />
             </p>
           </div>
 
