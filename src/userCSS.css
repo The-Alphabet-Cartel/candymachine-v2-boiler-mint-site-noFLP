@@ -38,16 +38,4 @@
   /* Minting Button */
   --minting-button-color: linear-gradient(180deg,#604ae5 0%,#9e2af1 100%);
   --minting-button-text-color: white;
-  
-  /* Gallery */
-  --gallery-width: 100%;
-  --gallery-height: 100%;
-  --gallery-border-width: 200px;
-  --gallery-border-height: 200px;
 }
-
-
-
-
-
-
