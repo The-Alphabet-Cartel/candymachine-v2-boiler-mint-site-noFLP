@@ -117,17 +117,34 @@ const App = () => {
           </div>
         </div>
       </nav>
+
+      <div id="link2" className="container">
+        <h1 className="text-secondary-color">Welcome To</h3>
+        <h3 className="pb-3">The Alphabet cARTel's Candy Machine!</h1>
+        <p className="text-secondary-color">
+          Here you will find our current offerings of our NFT collections.
+          Our collections are a combination of human and AI artistry.
+          We will be very clear on which collections are human created,
+          and which are created via A.I. to avoid any misconceptions.
+        </p>
+      </div>
+
       <div className="content-wrapper">
           <header className="card" id="link1">
             <div style={{ padding: "0 24px 0 24px 0" }}>
-              <h3 className="text-secondary-color">Welcome To</h3>
-              <h1 className="pb-3">The Boiler Plate</h1>
+              <h3 className="pb-3">Our Latest Collection: Vikingum!</h1>
               <p className="text-secondary-color">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
-                scelerisque ipsum non est porta mollis. Donec sapien sapien, dictum
-                eget enim sed, hendrerit semper orci. Donec ante magna, consequat at
-                eros ac, eleifend dictum sem. Nam vitae condimentum lorem.
-                Vestibulum molestie dui turpis, tincidunt porta sem congue nec.
+                This is a limited edition collection of 175 different viking themed A.I. creations.
+                There is no auction, simply add your wallet, and click "Mint".
+                Mints are given on a first come, first served basis, and are randomly handed out.
+                Once all 175 NFTs are sold, that's it for that run. Stay tuned for more if you missed it.
+              </p>
+              <p className="text-secondary-color">
+                <img src="/img/vikingum/1.png" height="75" />
+                <img src="/img/vikingum/39.png" height="75" />
+                <img src="/img/vikingum/22.png" height="75" />
+                <img src="/img/vikingum/51.png" height="75" />
+                <img src="/img/vikingum/78.png" height="75" />
               </p>
             </div>
             <div>
