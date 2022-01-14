@@ -4,7 +4,7 @@
   --main-background-color: rgb(49, 56, 95);
 
   --text-primary-color: rgb(141, 196, 197);
-  --text-secondary-color: rgb(0, 188, 212);
+  --text-secondary-color: rgb(96, 125, 139);
 
   /* Nav Settings  */
   --nav-link-color: rgb(255, 152, 0);
@@ -26,7 +26,7 @@
   /* Card Settings  */
   --card-background-color: rgb(85, 120, 202);
   --card-border-radius: 10px;
-  --card-shadow: 10px 10px 20px -13px rgb(72, 71, 71);
+  --card-shadow: 10px 10px 20px -13px rgb(96, 125, 139);
 
   /* Minting Area */
   --minting-box-color: #151A1F;
