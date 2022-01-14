@@ -372,7 +372,7 @@ header {
   background: radial-gradient(#805d78,rgba(0,0,0,0) 70%);
 }
 
-img{
+.gallery-img{
   width:var(--gallery-width);
   height:var(--gallery-height);
 }
