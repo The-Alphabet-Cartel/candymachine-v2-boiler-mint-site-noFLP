@@ -121,7 +121,7 @@ const App = () => {
                 Mints are given on a first come, first served basis, and are randomly handed out.
                 Once all NFTs are sold, that's it for that run.
               </p>
-              <br />
+              <hr />
               <p className="text-secondary-color">
                 <img src="/img/vikingum/39.png" height="100" alt="" />
                 <img src="/img/vikingum/22.png" height="100" alt="" />
@@ -158,7 +158,7 @@ const App = () => {
               As usual, there will be no auction, simply add your wallet, and click "Mint".
               Mints will be given on a first come, first served basis, and are randomly handed out.
             </p>
-            <br />
+            <hr />
             <p className="text-secondary-color">
               <img src="/img/angels/0.png" height="100" alt="" />
               <img src="/img/angels/1.png" height="100" alt="" />
