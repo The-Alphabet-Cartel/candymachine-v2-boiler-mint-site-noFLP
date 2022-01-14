@@ -115,13 +115,13 @@ const App = () => {
             <div style={{ padding: "0 24px 0 24px 0" }}>
               <h3 className="pb-3">Our Latest Collection: Vikingum!</h3>
               <p className="text-primary-color">
-                This is a limited edition collection of 175 different viking themed A.I. creations.
+                This is a multi-run, limited edition collection of 175 different viking themed A.I. creations.
+                Each run will have no more than 25 NFTs available for purchase (Minting).
                 There is no auction, simply add your wallet, and click "Mint".
                 Mints are given on a first come, first served basis, and are randomly handed out.
-                Once all 175 NFTs are sold, that's it for that run. Stay tuned for more if you missed it.
+                Once all NFTs are sold, that's it for that run.
               </p>
               <p className="text-secondary-color">
-                <img src="/img/vikingum/1.png" height="100" alt="" />
                 <img src="/img/vikingum/39.png" height="100" alt="" />
                 <img src="/img/vikingum/22.png" height="100" alt="" />
                 <img src="/img/vikingum/51.png" height="100" alt="" />
@@ -160,7 +160,6 @@ const App = () => {
             <p className="text-secondary-color">
               <img src="/img/angels/0.png" height="100" alt="" />
               <img src="/img/angels/1.png" height="100" alt="" />
-              <img src="/img/angels/2.png" height="100" alt="" />
               <img src="/img/angels/3.png" height="100" alt="" />
               <img src="/img/angels/4.png" height="100" alt="" />
             </p>
