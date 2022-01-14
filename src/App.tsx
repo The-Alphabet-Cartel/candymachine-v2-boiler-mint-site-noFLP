@@ -134,7 +134,7 @@ const App = () => {
           <header className="card" id="link1">
             <div style={{ padding: "0 24px 0 24px 0" }}>
               <h3 className="pb-3">Our Latest Collection: Vikingum!</h3>
-              <p className="text-secondary-color">
+              <p className="text-primary-color">
                 This is a limited edition collection of 175 different viking themed A.I. creations.
                 There is no auction, simply add your wallet, and click "Mint".
                 Mints are given on a first come, first served basis, and are randomly handed out.
